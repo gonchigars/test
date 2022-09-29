@@ -1,6 +1,5 @@
 changes by shashank 
 changes by keerthi
->>>>>>> e56c065e9b561a3c79835bd26ae9a26737d403f7
 adding third line
 adding fourth lin
 first line
@@ -8,3 +7,4 @@ lkajsfklj lasjdfladding third line
 third line by shashankgithub
 this is third commit
 changes by srikar....
+third line by mac
